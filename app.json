@@ -38,8 +38,7 @@
       "expo-notifications"
     ],
     "experiments": {
-      "typedRoutes": true,
-      "baseUrl": "/FitProcessFlow"
+      "typedRoutes": true
     }
   }
 }
